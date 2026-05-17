@@ -1,16 +1,31 @@
-## Hi there 👋
+# Shady Ullrich
 
-<!--
-**Shadyu8/Shadyu8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student focused on software engineering, scalable systems, backend architecture, and modern web development.
 
-Here are some ideas to get you started:
+Experienced with low-level programming, full-stack applications, databases, cloud tooling, Linux environments, and distributed systems. Interested in building performant, maintainable software with clean architecture and strong engineering practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+
+TypeScript • JavaScript • Python • Java • C • C++ • C# • PHP • SQL • Bash • Haskell
+
+## Frontend + Backend
+
+React • Next.js • HTML • CSS • TailwindCSS Node.js • REST APIs
+
+## Databases
+
+PostgreSQL • MySQL • MongoDB • Prisma
+
+## Environments & Tooling
+
+Linux • Git • Docker • VS Code • WSL2 • intellij
+
+## Current Focus
+
+* Backend engineering
+* Scalable infrastructure
+* Distributed systems
+* Performance optimization
+* Software architecture
+* AI-assisted development
+
