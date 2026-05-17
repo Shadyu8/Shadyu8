@@ -73,7 +73,7 @@ See my portfolio at [shadyu.dev](https://shadyu.dev/)
       <img src="https://img.shields.io/badge/CI%2FCD-111111?style=for-the-badge" height="28">
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Test%2Driven%2Development-111111?style=for-the-badge" height="28">
+      <img src="https://img.shields.io/badge/Test%20Driven%20Development-111111?style=for-the-badge" height="28">
     </td>
   </tr>
 </table>
