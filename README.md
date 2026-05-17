@@ -25,16 +25,14 @@ See my portfolio at [shadyu.dev](https://shadyu.dev/)
 
 ## Development Methodologies
 
-## Development Methodologies
-
 ![Agile](https://img.shields.io/badge/Agile-111111?style=for-the-badge)
 ![Scrum](https://img.shields.io/badge/Scrum-111111?style=for-the-badge)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-111111?style=for-the-badge)
 ![TDD](https://img.shields.io/badge/TDD-111111?style=for-the-badge)
 
 ## Extra
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=shadyu8&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadyu8&layout=compact&theme=tokyonight)
 
 ## Current Focus
 
