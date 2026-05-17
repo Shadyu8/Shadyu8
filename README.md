@@ -4,6 +4,7 @@ Computer Science student focused on software engineering, scalable systems, back
 
 Experienced with low-level programming, full-stack applications, databases, Linux environments, and distributed systems. Interested in building performant, maintainable softwares.
 
+See my website for my portfolio: https://shadyu.dev/
 ## Languages
 
 TypeScript • JavaScript • Python • Java • C • C++ • C# • PHP • SQL • Bash • Haskell
