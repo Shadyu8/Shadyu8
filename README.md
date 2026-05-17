@@ -32,7 +32,6 @@ See my portfolio at [shadyu.dev](https://shadyu.dev/)
     <td align="center"><img src="https://skillicons.dev/icons?i=css" width="50"><br>CSS</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50"><br>TailwindCSS</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50"><br>Node.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="50"><br>Express</td>
   </tr>
 </table>
 
