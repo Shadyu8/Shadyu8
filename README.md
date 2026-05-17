@@ -10,7 +10,7 @@ TypeScript • JavaScript • Python • Java • C • C++ • C# • PHP • S
 
 ## Frontend + Backend
 
-React • Next.js • HTML • CSS • TailwindCSS • Node.js • REST APIs
+React • Next.js • HTML • CSS • TailwindCSS • Node.js • REST APIs • Authentication
 
 ## Databases
 
