@@ -20,6 +20,10 @@ PostgreSQL • MySQL • MongoDB • Prisma
 
 Linux • Git • Docker • VS Code • WSL2 • intellij
 
+## Development Methodologies
+
+Scrum • Agile workflows
+
 ## Current Focus
 
 * Backend engineering
