@@ -7,21 +7,19 @@ Experienced with low-level programming, full-stack applications, databases, Linu
 See my portfolio at [shadyu.dev](https://shadyu.dev/)
 ## Languages
 
-## Languages
-
-[![Languages](https://skillicons.dev/icons?i=ts,js,py,java,c,cpp,cs,php,bash,haskell)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,js,py,java,c,cpp,cs,php,bash,haskell&theme=dark)](https://skillicons.dev)
 
 ## Frontend + Backend
 
-[![Frontend Backend](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,nodejs,express)](https://skillicons.dev)
+[![Frontend Backend](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,nodejs,express&theme=dark)](https://skillicons.dev)
 
 ## Databases
 
-[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma&theme=dark)](https://skillicons.dev)
 
 ## Environments & Tooling
 
-[![Tooling](https://skillicons.dev/icons?i=linux,git,docker,vscode,idea)](https://skillicons.dev)
+[![Tooling](https://skillicons.dev/icons?i=linux,git,docker,vscode,idea&theme=dark)](https://skillicons.dev)
 
 ## Development Methodologies
 
