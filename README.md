@@ -7,7 +7,9 @@ Experienced with low-level programming, full-stack applications, databases, Linu
 See my portfolio at [shadyu.dev](https://shadyu.dev/)
 ## Languages
 
-TypeScript • JavaScript • Python • Java • C • C++ • C# • PHP • SQL • Bash • Haskell
+## Languages
+
+[![Languages](https://skillicons.dev/icons?i=ts,js,py,java,c,cpp,cs,php,bash,haskell)](https://skillicons.dev)
 
 ## Frontend + Backend
 
