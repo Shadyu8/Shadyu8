@@ -64,16 +64,16 @@ See my portfolio at [shadyu.dev](https://shadyu.dev/)
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Agile-111111?style=for-the-badge" height="28"><br>Agile
+      <img src="https://img.shields.io/badge/Agile-111111?style=for-the-badge" height="28">
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Scrum-111111?style=for-the-badge" height="28"><br>Scrum
+      <img src="https://img.shields.io/badge/Scrum-111111?style=for-the-badge" height="28">
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/CI%2FCD-111111?style=for-the-badge" height="28"><br>CI/CD
+      <img src="https://img.shields.io/badge/CI%2FCD-111111?style=for-the-badge" height="28">
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/TDD-111111?style=for-the-badge" height="28"><br>TDD
+      <img src="https://img.shields.io/badge/Test-Driven Development-111111?style=for-the-badge" height="28">
     </td>
   </tr>
 </table>
