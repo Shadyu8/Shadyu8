@@ -31,8 +31,8 @@ See my portfolio at [shadyu.dev](https://shadyu.dev/)
 ![TDD](https://img.shields.io/badge/TDD-111111?style=for-the-badge)
 
 ## Extra
-![Stats](https://github-readme-stats.vercel.app/api?username=shadyu8&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadyu8&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=ShadyU8&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadyU8&layout=compact&theme=tokyonight)
 
 ## Current Focus
 
