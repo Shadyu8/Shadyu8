@@ -13,19 +13,23 @@ See my portfolio at [shadyu.dev](https://shadyu.dev/)
 
 ## Frontend + Backend
 
-React • Next.js • HTML • CSS • TailwindCSS • Node.js • REST APIs • Authentication
+[![Frontend Backend](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,nodejs,express)](https://skillicons.dev)
 
 ## Databases
 
-PostgreSQL • MySQL • MongoDB • Prisma
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma)](https://skillicons.dev)
 
 ## Environments & Tooling
 
-Linux • Git • Docker • VS Code • WSL2 • intellij
+[![Tooling](https://skillicons.dev/icons?i=linux,git,docker,vscode,idea)](https://skillicons.dev)
 
 ## Development Methodologies
 
 Scrum • Agile workflows
+
+## Extra
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ## Current Focus
 
