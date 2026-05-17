@@ -5,32 +5,78 @@ Computer Science student focused on software engineering, scalable systems, back
 Experienced with low-level programming, full-stack applications, databases, Linux environments, and distributed systems. Interested in building performant, maintainable softwares.
 
 See my portfolio at [shadyu.dev](https://shadyu.dev/)
-## Languages
+<h2>Languages</h2>
 
-[![Languages](https://skillicons.dev/icons?i=ts,js,py,java,c,cpp,cs,php,bash,haskell&theme=dark)](https://skillicons.dev)
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="50"><br>TypeScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="50"><br>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=py" width="50"><br>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="50"><br>Java</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="50"><br>C</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="50"><br>C++</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cs" width="50"><br>C#</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=php" width="50"><br>PHP</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bash" width="50"><br>Bash</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=haskell" width="50"><br>Haskell</td>
+  </tr>
+</table>
 
-## Frontend + Backend
+<h2>Frontend + Backend</h2>
 
-[![Frontend Backend](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,nodejs,express&theme=dark)](https://skillicons.dev)
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50"><br>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="50"><br>Next.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="50"><br>HTML</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="50"><br>CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50"><br>TailwindCSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50"><br>Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="50"><br>Express</td>
+  </tr>
+</table>
 
-## Databases
+<h2>Databases</h2>
 
-[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma&theme=dark)](https://skillicons.dev)
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="50"><br>PostgreSQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="50"><br>MySQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50"><br>MongoDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=prisma" width="50"><br>Prisma</td>
+  </tr>
+</table>
 
-## Environments & Tooling
+<h2>Environments & Tooling</h2>
 
-[![Tooling](https://skillicons.dev/icons?i=linux,git,docker,vscode,idea&theme=dark)](https://skillicons.dev)
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="50"><br>Linux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="50"><br>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="50"><br>Docker</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50"><br>VS Code</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=idea" width="50"><br>IntelliJ</td>
+  </tr>
+</table>
 
-## Development Methodologies
+<h2>Development Methodologies</h2>
 
-![Agile](https://img.shields.io/badge/Agile-111111?style=for-the-badge)
-![Scrum](https://img.shields.io/badge/Scrum-111111?style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-111111?style=for-the-badge)
-![TDD](https://img.shields.io/badge/TDD-111111?style=for-the-badge)
-
-## Extra
-![Stats](https://github-readme-stats.vercel.app/api?username=ShadyU8&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadyU8&layout=compact&theme=tokyonight)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Agile-111111?style=for-the-badge" height="28"><br>Agile
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Scrum-111111?style=for-the-badge" height="28"><br>Scrum
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/CI%2FCD-111111?style=for-the-badge" height="28"><br>CI/CD
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/TDD-111111?style=for-the-badge" height="28"><br>TDD
+    </td>
+  </tr>
+</table>
 
 ## Current Focus
 
